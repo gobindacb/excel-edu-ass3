@@ -1,0 +1,14 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: Titillium-Black
+font link: https://www.fontsquirrel.com/fonts/titillium
+font author: Accademia di Belle Arti Urbino
+font author site: http://www.accademiadiurbino.it/
+
+
+icon designer: Alfredo @ IconsAlfredo.us
+icon designer link: /AlfredoCreates
+        
+{"bg":"transparent","icon-gradient-0":"#5F2517","icon-gradient-1":"#CAB08D","font":"#000000","slogan":"#141414"}
+      
