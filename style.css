@@ -17,20 +17,21 @@ body {
 }
 
 .carousel-caption h2 {
-    font-size: 3.5rem;
+    font-size: 3rem;
     font-weight: 700;
     color: white;
+    line-height: 47px;
 }
 
-.carousel-caption h4 {
-    font-size: 17px;
-    font-weight: 700;
+.carousel-caption h6 {
+    font-size: 16px;
+    font-weight: 600;
     color: lightskyblue;
 }
 
 .carousel-caption p {
     font-size: 15px;
-    font-weight: 500;
+    font-weight: 400;
     color: white;
 }
 
@@ -42,11 +43,12 @@ body {
 .btn {
     background-color: brown;
     color: white;
-    border-radius: .25rem;
+    border-radius: .20rem;
     padding: .5rem 1rem;
     font-size: 18px;
 }
 
-#explore {
-    background-color: rgb(251, 252, 252);
+/* footer background */
+.explore {
+    background-color: rgb(192, 226, 226);
 }
