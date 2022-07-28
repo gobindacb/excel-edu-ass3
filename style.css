@@ -1,7 +1,7 @@
 /* Custom Css for slider */
 .carousel-item {
     height: 100vh;
-    min-height: 300px;
+    min-height: 400px;
     background: no-repeat scroll center scroll;
     -webkit-background-size: cover;
     background-size: cover;
@@ -17,7 +17,7 @@
     bottom: 0;
     right: 0;
     background: black;
-    opacity: 0.5;
+    opacity: 0.6;
 }
 
 .carousel-caption {
