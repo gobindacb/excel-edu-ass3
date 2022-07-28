@@ -1,6 +1,9 @@
+/* Google font */
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
 /* Custom Css for slider */
-
-
 .carousel-item::before {
     content: '';
     display: block;
@@ -12,7 +15,6 @@
     background: black;
     opacity: 0.6;
 }
-
 
 .carousel-caption h2 {
     font-size: 3.5rem;
